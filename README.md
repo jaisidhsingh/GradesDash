@@ -3,7 +3,7 @@
 
 ## Group Members:
 
-Jaisidh Singh (B20AI015)
+Jaisidh Singh (B20AI015)<br>
 Vikash Yadav (B20AI061)
 <hr>
 
